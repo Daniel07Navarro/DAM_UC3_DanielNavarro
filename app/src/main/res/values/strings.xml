@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DAM_UC3_DanielNavarro</string>
+    <string name="textViewRegistrate">Regístrate</string>
+    <string name="textViewTexto_2">Es gratis (y lo seguirá siendo)</string>
+    <string name="textViewNombre">Nombre</string>
+    <string name="textViewApellido">Apellido</string>
+    <string name="textViewEmail">Correo electronico</string>
+    <string name="textViewContraseña">Contraseña Nueva</string>
+    <string name="textViewSexo">Sexo</string>
+    <string name="textViewFecha">Fecha de nacimiento</string>
+    <string name="txtViewPregunta">¿Por qué tengo que dar esta información?</string>
+</resources>
